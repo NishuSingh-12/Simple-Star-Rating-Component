@@ -29,13 +29,14 @@ Hovering over the stars gives a live visual preview, and clicking on a star perm
 
 ## 📸 Screenshot
 
-![Vowel Counter Screenshot](09_Vowel_Counter/screenshot.png)
+![Desktop design](desktop.png)
+![Mobile Design](mobile.png)
 
 ## 🌍 Live Demo
 
-[🔗 View Project on Netlify](https://vowelscounterr.netlify.app/)
+[🔗 View Project on Netlify](https://clickrate.netlify.app/)
 
 ## 👩‍💻 Author
 
 **Nishu Singh**  
-Practicing JavaScript and DOM manipulation by building small projects 💪
+Frontend learner building clean, simple, and responsive JavaScript projects.
